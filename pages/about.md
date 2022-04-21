@@ -1,33 +1,43 @@
 ---
-title: About us
-metaDescription: This is a sample meta description. If one is not present in your page/post's front matter, the default metadata.desciption will be used instead.
+title: Giới thiệu
+metaDescription: This is a sample meta description. If one is not present in
+  your page/post's front matter, the default metadata.desciption will be used
+  instead.
 date: 2017-01-01T00:00:00.000Z
 permalink: /about/index.html
 eleventyNavigation:
   key: About
   order: 1
 ---
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+Chán Văn là sẽ chán đời\
+Yêu Văn là sẽ yêu đời lại thôi!
 
-Add a few line breaks in here to test:-
-Capitalize  
-on  
-low  
-hanging  
-fruit  
+> Mật mã Văn học giúp các bạn học sinh chán Văn tiếp cận phương pháp đúng để tìm lại cảm hứng với Văn học, từ đó dễ dàng đạt điểm cao hơn, vượt qua các kỳ thi và ghi dấu ấn trong cuộc sống.
 
-## Our services
+## Giá trị cốt lõi của Mật mã Văn học
 
-Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+Chúng tôi là những người:
 
-### Blue-sky thinking
+**Kiên nhẫn:** 
 
-Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+Luôn chú tâm lắng nghe những trải lòng của bạn.
 
-#### Management frameworks
+Rèn luyện khả năng tập trung mỗi ngày, trong mỗi cuộc giao tiếp. 
 
-Podcasting operational change management inside of workflows to establish a framework. Taking seamless key performance indicators offline to maximise the long tail. Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+Luyện tập kiên nhẫn với chính mình để dễ dàng đồng cảm với người khác.
 
-##### Regulatory convergence
+**Chu đáo:** 
 
-Collaboratively administrate empowered markets via plug-and-play networks. Dynamically procrastinate B2C users after installed base benefits. Dramatically visualize customer directed convergence without revolutionary ROI. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+Chú trọng kiến thức giúp bạn cải thiện trong học tập và cả đời sống.
+
+Luôn chú ý tới sức khỏe tinh thần của bạn.
+
+Thường xuyên nâng cấp công cụ giảng dạy để phục vụ bạn tốt nhất.
+
+**Siêng năng:**
+
+Đều đặn xem lại băng ghi hình phần giảng dạy để đúc rút kinh nghiệm.
+
+Liên tục đọc sách, nghiên cứu để kiến thức khách quan và mới mẻ.
+
+Chăm chỉ thử và sai nhiều lần để tìm phương pháp hiệu quả nhất cho bạn.
