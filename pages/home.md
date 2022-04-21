@@ -7,14 +7,18 @@ eleventyNavigation:
   key: Home
   order: 0
 ---
-# Welcome
+## Vượt qua kỳ thi Văn dễ dàng và ghi dấu ấn trong học tập.
 
-This is a template for building a simple blog website with the [Eleventy static site generator](https://www.11ty.io), with deployment to [Netlify](https://www.netlify.com).
+*Học Văn buồn ngủ v\*\* l\*\*!*
 
-Includes [Netlify CMS](https://www.netlifycms.org) for WYSIWYG content editing, and [Netlify Forms](https://www.netlify.com/docs/form-handling) for processing your site's form data.
+*Ở nhà đ\*\* khác gì ở tù!*
 
-For more info on installation and usage, view the [project repo]({{ pkg.repository.url }}) on GitHub.
+*Cuộc sống nhàm chán bỏ m* ra!*
 
-Or click the button below to deploy your own copy of this project to Netlify.
+Bạn đang bị ức chế do học Văn sai cách. 
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/danurbanowicz/eleventy-netlify-boilerplate&stack=cms)
+Bạn bắt đầu chán học, chán đời và chán chính mình. Người lớn chì chiết, bạn bè đánh giá thấp. 
+
+Bạn cần một người ở bên kiên nhẫn lắng nghe, đồng cảm với sự khổ sở của bạn và chỉ cho bạn cách nào thực sự hiệu quả.
+
+**Mật mã Văn học** giúp bạn loại bỏ phương pháp sai lầm, tránh lãng phí thời gian vào những điều vô nghĩa, với 3 khóa học :
